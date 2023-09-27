@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reserva-restaurante",
+    "slug": "reserva-restaurante",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reserva-restaurante"
+}
